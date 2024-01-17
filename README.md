@@ -1,6 +1,6 @@
-# project_task
+# project_task Тестовое задание
 
-hotel reservation app
+hotel reservation app https://docs.google.com/document/d/1odLvGFLlYBeI2EENJzjGiOsSfr8f2M_5AzdRGpsI4yQ/edit
 
 ## Getting Started
 
